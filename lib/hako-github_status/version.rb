@@ -1,0 +1,3 @@
+module HakoGithubStatus
+  VERSION = "0.0.1"
+end
